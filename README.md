@@ -1,23 +1,23 @@
-# RottenTomatoes Box Office Demo
-
-(Sample of your weekly project submission README)
-
-This is an Android demo application for displaying the latest box office movies using the [RottenTomatoes API](http://www.rottentomatoes.com/). See the [RottenTomatoes Networking Tutorial](http://guides.thecodepath.com/android/RottenTomatoes-Networking-Tutorial) on our cliffnotes for a step-by-step tutorial.
+# InstagramClient
+This is an Android application for displaying Instagram Popular Photo Feed.
 
 Time spent: 5 hours spent in total
 
 Completed user stories:
 
- * [x] Required: User can view a list of latest box office movies including title, cast and tomatoes rating
- * [x] Required: User can click on a movie in the list to bring up a details page with additional information such as synopsis
- * [ ] Optional: Placeholder image is used for movie posters loaded in from the network
- 
-Notes:
-
-Spent some time making the UI work across multiple phone resolutions by playing around with the RelativeLayout.
+ * [x] User can scroll through current popular photos from Instagram
+ * [x] For each photo displayed, user can see the following details:
+      * Graphic, Caption, Username
+      * (Optional) relative timestamp, like count, user profile image
+ * [ ] Advanced: Add pull-to-refresh for popular stream with SwipeRefreshLayout
+ * [ ] Advanced: Display each user profile image using a RoundedImageView
+ * [ ] Advanced: Display a nice default placeholder graphic for each image during loading
+ * [ ] Advanced: Improve the user interface through styling and coloring
+ * [ ] Bonus: Allow user to view all comments for an image within a dialog fragment
 
 Walkthrough of all user stories:
 
-![Video Walkthrough](result.gif)
+![Video Walkthrough](InstagramClient.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
