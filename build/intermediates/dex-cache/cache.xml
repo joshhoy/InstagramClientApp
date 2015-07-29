@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/joshho/Devel/GitHub/Android/InstagramClient2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/joshho/Devel/GitHub/Android/InstagramClient2/app/build/intermediates/pre-dexed/debug/classes-7fa0c7be93c812f11dbfda6dcd496a37bbf79448.jar" />
+    </item>
+    <item
+        jar="/Users/joshho/Devel/GitHub/Android/InstagramClientApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/joshho/Devel/GitHub/Android/InstagramClientApp/app/build/intermediates/pre-dexed/debug/classes-ccbb560f91559b142fd7d7970baecb43004aa228.jar" />
+    </item>
+    <item
+        jar="/Users/joshho/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/joshho/Devel/GitHub/Android/InstagramClient2/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-94ff377e1f38dc8b041c22c18ce286b7b4028a7c.jar" />
+    </item>
+    <item
+        jar="/Users/joshho/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.8/77bbfe240e437ecb396d982afa0d3bd4f9090ba7/android-async-http-1.4.8.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="77bbfe240e437ecb396d982afa0d3bd4f9090ba7">
+        <dex dex="/Users/joshho/Devel/GitHub/Android/InstagramClient2/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.8-56fa604a14fc563f29ef4b76cfc82688d205cc56.jar" />
+    </item>
+    <item
+        jar="/Users/joshho/Devel/GitHub/Android/InstagramClient2/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/joshho/Devel/GitHub/Android/InstagramClient2/app/build/intermediates/pre-dexed/debug/classes-7f9df3b3c4809bb556c2109321447c832b041a35.jar" />
+    </item>
+    <item
+        jar="/Users/joshho/Devel/GitHub/Android/InstagramClientApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/joshho/Devel/GitHub/Android/InstagramClientApp/app/build/intermediates/pre-dexed/debug/classes-58a446d83ff7c1f580576522aecc282b0607d25c.jar" />
+    </item>
+    <item
+        jar="/Users/joshho/Devel/GitHub/Android/InstagramClient2/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/joshho/Devel/GitHub/Android/InstagramClient2/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-73cd8252cfd8aa9939065b4cfa555c2b327add5d.jar" />
+    </item>
+    <item
+        jar="/Users/joshho/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/joshho/Devel/GitHub/Android/InstagramClient2/app/build/intermediates/pre-dexed/debug/picasso-2.5.2-06764b40eb1ccdadc48699dc634c2c7c2dc1b7d5.jar" />
+    </item>
+    <item
+        jar="/Users/joshho/Devel/GitHub/Android/InstagramClientApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/joshho/Devel/GitHub/Android/InstagramClientApp/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-fae657c8ec538b40a5bcc034c0a7a05e52679c0c.jar" />
+    </item>
+
+</items>
