@@ -6,23 +6,64 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/ivPhoto"
-        android:layout_alignParentTop="true"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
         android:adjustViewBounds="true"
         android:scaleType="fitXY"
-        android:minHeight="50dp" />
+        android:minHeight="50dp"
+        android:layout_below="@+id/tvUsername"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
 
     <EditText
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/tvCaption"
-        android:text="New Text"
+        android:text="Captoin"
         android:textSize="20sp"
         android:maxLines="3"
         android:ellipsize="end"
-        android:layout_below="@+id/ivPhoto"
+        android:layout_below="@+id/tvLike"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:ems="10"
+        android:id="@+id/tvLike"
+        android:text="Like"
+        android:layout_below="@+id/ivPhoto"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:textSize="10sp" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvUsername"
+        android:text="Username"
+        android:textSize="15sp"
+        android:maxLines="1"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/ivProfilePic"
+        android:layout_toEndOf="@+id/ivProfilePic" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/ivProfilePic"
+        android:layout_below="@+id/ivPhoto"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"/>
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvCreateTime"
+        android:text="Create Time"
+        android:layout_below="@+id/ivPhoto"
+        android:layout_toRightOf="@+id/tvLike"
+        android:layout_toEndOf="@+id/tvLike" />
 
 </RelativeLayout>
